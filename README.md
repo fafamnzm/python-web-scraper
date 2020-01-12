@@ -2,7 +2,9 @@
 
 First you need to install the following dependancies: 
 
-    pip install beautifulsoup
+    pip install beautifulsoup4
+    (or simply:
+    pip install bs4)
     pip install requests
 
 simple web scraper
